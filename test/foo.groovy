@@ -1,2 +1,5 @@
 package test
-def foo = "555"
+
+class Bar {
+  static foo = "555"
+}
